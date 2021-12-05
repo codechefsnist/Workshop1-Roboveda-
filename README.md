@@ -13,7 +13,7 @@
   <p align="center">
     An awesome Portfolio Website 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://codechefsnistproject.netlify.app/">View Demo</a>
     ·
   </p>
 </div>
